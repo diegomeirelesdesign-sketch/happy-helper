@@ -1,5 +1,5 @@
 import { Link, useLocation } from "@tanstack/react-router";
-import { Moon, Search, Sun, Ticket, Menu, X, Star, ArrowRight, CircleDot, Instagram, Youtube, Mail, LogIn } from "lucide-react";
+import { Moon, Search, Sun, Ticket, Menu, X, Star, ArrowRight, CircleDot, Instagram, Youtube, Mail } from "lucide-react";
 import { useEffect, useState } from "react";
 import { SITE_NAME, SITE_SLOGAN, type Post } from "../lib/content";
 
